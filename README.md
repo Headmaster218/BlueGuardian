@@ -2,22 +2,37 @@
 
 **BlueGuardian** is a Flutter-based mobile application designed to monitor and visualize river water quality in real-time using water sensors and server services from [AquaSense](https://github.com/Headmaster218/Thames-pollution-detect-IoT). The app empowers users to interact with live environmental data, aiming to protect and improve our connected aquatic environments.
 
-This project is part of the UCL CASA0015 Mobile Systems coursework, demonstrating comprehensive skills in mobile application development, IoT integration, cloud communication, and user-centered interaction design.
-
 **Protecting Our Waters through IoT and Mobile Technologies**
 
 ---
 
 ## Table of Contents
-
+- [Video Demo](#video-demo)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Development Environment](#Development-Environment)
 - [User Journey](#user-journey)
-- [Screenshots](#screenshots)
 - [Usage Instructions](#Usage-Instructions)
 - [Future Improvements](#future-improvements)
-- [Video Demo](#video-demo)
 - [Live Landing Page](#deployment)
+
+
+---
+
+## Video Demo
+
+👉 [Demo Video](./media/BlueGuardian.mp4)
+---
+
+## Screenshots
+
+| Splash Screen | Home Page | Map Screen |
+|:---:|:---:|:---:|
+| ![Splash](./media/splash.png) | ![Home](media/home.png) | ![Map](media/map.png) |
+
+| Sensor History | Graph View | Settings Page |
+|:---:|:---:|:---:|
+| ![History](media/history.png) | ![Graph](media/graph.png) | ![Settings](media/setting.png) |
 
 ---
 ## Features
@@ -102,17 +117,6 @@ The GitHub repository maintains a continuous and detailed commit history to refl
 
 Note: This Repo is merged from [here](https://github.com/Headmaster218/BlueGuardian) so all the commits are done in the same time.
 
----
-
-## Screenshots
-
-| Splash Screen | Home Page | Map Screen |
-|:---:|:---:|:---:|
-| ![Splash](./media/splash.png) | ![Home](media/home.png) | ![Map](media/map.png) |
-
-| Sensor History | Graph View | Settings Page |
-|:---:|:---:|:---:|
-| ![History](media/history.png) | ![Graph](media/graph.png) | ![Settings](media/setting.png) |
 
 ---
 
@@ -181,11 +185,7 @@ This project is open for academic purposes. Commercial reuse requires permission
 
 For any queries, please email me at [zhuohang2024@163.com](mailto:zhuohang2024@163.com).
 
----
 
-## Video Demo
-
-👉 [Demo Video](./media/BlueGuardian.mp4)
 
 ---
 
